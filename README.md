@@ -1,4 +1,4 @@
-music-box-paper
+music-box-paper [中文说明](./README_zh.md)
 ===============
 
 Print your own strips for DIY music boxes.
